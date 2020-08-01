@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome, I've been expecting you.
-![](./really-cool-banner.svg)
+![](./banner.svg)
